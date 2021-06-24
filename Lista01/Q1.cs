@@ -6,7 +6,7 @@ namespace Q1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Beatriz");
+            Console.WriteLine("Beatriz Ferreira");
         }
     }
 }
